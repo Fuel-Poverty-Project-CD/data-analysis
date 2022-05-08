@@ -12,7 +12,7 @@ All data analysis for the project - including python, excel(.csv) and other docu
             - D_EPC_data_2020_Q4_extract_0721.zip
             - D_EPC_data_2021_Q1_extract_0721.zip
             - D_EPC_data_2021_Q2_extract_0721.zip 
-### Result link : https://sysphcd.github.io/temp-plot.html
+### Result link : https://sysphcd.github.io/percetincomedeprived_avgenergyefficiency_plot.html
 
 
 ### Plotly Choropleth Map shows Median Energy Efficiency and Median Energy Consumption in Glasgow. 
@@ -25,5 +25,5 @@ All data analysis for the project - including python, excel(.csv) and other docu
             - D_EPC_data_2021_Q1_extract_0721.zip
             - D_EPC_data_2021_Q2_extract_0721.zip 
 ### Result link : 
-            - https://sysphcd.github.io/Glasgow-Districts-Median-current-energy-efficiency-plot.html
-            - https://sysphcd.github.io/Glasgow-Districts-Median-Energy-Consumption-plot.html
+[https://sysphcd.github.io/Glasgow-Districts-Median-current-energy-efficiency-plot.html]  
+[https://sysphcd.github.io/Glasgow-Districts-Median-Energy-Consumption-plot.html]
