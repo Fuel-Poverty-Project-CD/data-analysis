@@ -16,7 +16,7 @@ All data analysis for the project - including python, excel(.csv) and other docu
 
 
 ### Plotly Choropleth Map shows Median Energy Efficiency and Median Energy Consumption in Glasgow. 
-### File used   - fp_peopleincomedeprived_energyefficiency.py, 
+### File used   - fp_epc_onmap.py, 
             - Glasgow.geojson 
             - D_EPC_data_2020_Q1_extract_0721.zip
             - D_EPC_data_2020_Q2_extract_0721.zip
